@@ -1,37 +1,27 @@
-# Peter Singer Dal
-
-A simple, hearty red lentil dal with coconut cream and tomatoes. From Peter Singer's cookbook.
+# Peter Singer Dal (Red Lentil Dahl)
 
 ## Ingredients
 
-- 1½ cups red lentils, rinsed
-- 1 can (13.5 oz) coconut cream
-- 1 can (14 oz) diced tomatoes
-- 1 large onion, diced
-- 4 cloves garlic, minced
-- 1-inch piece fresh ginger, grated
-- 3 cups water or vegetable broth
-- 2 tbsp oil
-- 1½ tsp ground cumin
-- 1½ tsp ground coriander
-- 1 tsp turmeric
-- ½ tsp chili flakes (or to taste)
+- 1 tbsp olive oil
+- 2 cloves garlic
+- 1 medium onion
+- 1–2 tbsp curry powder
 - Salt to taste
-- Fresh cilantro, for garnish
-- Lemon juice, to serve
+- 1 cup red lentils
+- 3 cups water
+- 2–3 bay leaves
+- 1 cinnamon stick
+- 1 can (15 oz) chopped tomatoes
+- ¼ cup coconut milk
+- 2 tbsp lemon juice
 
 ## Instructions
 
-1. Heat oil in a large pot over medium heat. Add onion and cook for 8–10 minutes until softened and golden.
-2. Add garlic and ginger, cook for 1–2 minutes until fragrant.
-3. Stir in cumin, coriander, turmeric, and chili flakes. Cook for 30 seconds.
-4. Add lentils, tomatoes, coconut cream, and water or broth. Stir to combine.
-5. Bring to a boil, then reduce heat and simmer uncovered for 20–25 minutes, stirring occasionally, until lentils are soft and the dal has thickened.
-6. Season with salt. Add a squeeze of lemon juice before serving.
-7. Garnish with fresh cilantro and serve with rice or flatbread.
+1. In a large saucepan, sauté garlic until fragrant. Add onion and cook until it begins to soften.
+2. Add curry powder and salt to taste, and cook over medium heat until the mixture begins to brown.
+3. Add lentils and stir for a minute, then add water, bay leaves, and cinnamon stick.
+4. Bring to a boil, then turn heat down very low and simmer for about 20 minutes, stirring occasionally.
+5. Add chopped tomatoes and simmer another 10 minutes, until thick. The lentils should be soft and the consistency just liquid enough to pour.
+6. Add coconut milk and lemon juice. Stir through and remove from heat.
 
-## Notes
-
-- If you have the book photo, the spice quantities can be adjusted to match exactly.
-- Dal thickens considerably as it cools — add a splash of water when reheating.
-- For extra richness, stir in a knob of coconut oil at the end.
+Serve over rice with lime pickle and mango chutney.
