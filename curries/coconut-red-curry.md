@@ -1,43 +1,50 @@
 # Coconut Red Curry (Crockpot Batch)
 
-A rich, warming coconut red curry made in a crockpot. Makes 8 mason jars.
+A rich, warming coconut red curry made in a crockpot. Makes approximately 8 pint (16 oz) mason jars.
 
 ## Ingredients
 
+- 2 tbsp high-heat olive oil
+- 1 large onion, diced
+- 4 cloves garlic, minced
+- 2-inch piece fresh ginger, peeled and grated (or thinly sliced)
 - 2–3 tbsp red curry paste
 - 2 cans (13.5 oz each) full-fat coconut milk
-- 2 cups vegetable or chicken broth
+- 3 cups vegetable broth
 - 2 large sweet potatoes, peeled and cubed (1-inch pieces)
+- 1 block (14–16 oz) firm tofu, pressed and cubed
+- 1 can (15 oz) chickpeas, drained and rinsed
 - 1 can (8 oz) water chestnuts, drained and sliced
 - 1 can (8 oz) bamboo shoots, drained
-- 2-inch piece fresh ginger, peeled and grated (or thinly sliced)
-- 4 cloves garlic, minced
+- 2 cups green beans, trimmed (fresh or frozen)
 - 1 tbsp soy sauce or tamari
 - 1 tbsp fish sauce (optional)
 - 1 tbsp brown sugar or coconut sugar
-- Juice of 1 lime
+- Juice of 1–2 limes
 - Fresh basil or cilantro, for garnish
 - Salt and pepper to taste
 
 ## Instructions
 
-1. Add red curry paste to the crockpot. Pour in coconut milk and broth and stir to combine.
-2. Add sweet potatoes, water chestnuts, bamboo shoots, ginger, and garlic.
-3. Season with soy sauce, fish sauce (if using), and brown sugar.
-4. Cook on **Low for 6–8 hours** or **High for 3–4 hours**, until sweet potatoes are tender.
-5. Stir in lime juice and adjust seasoning before serving.
-6. Garnish with fresh basil or cilantro.
+1. Heat olive oil in a skillet over medium heat. Sauté onion until softened, about 5 minutes. Add garlic and ginger and cook 1 minute more. Add curry paste and stir to coat.
+2. Transfer the aromatics to the crockpot. Pour in coconut milk and broth and stir to combine.
+3. Add sweet potatoes, tofu, chickpeas, water chestnuts, bamboo shoots, and green beans.
+4. Season with soy sauce, fish sauce (if using), and brown sugar.
+5. Cook on **Low for 6–8 hours** or **High for 3–4 hours**, until sweet potatoes are tender.
+6. Stir in lime juice and adjust seasoning before serving.
+7. Garnish with fresh basil or cilantro.
 
 ## Canning / Mason Jar Instructions
 
 1. Let curry cool to room temperature (or use a quick ice bath).
-2. Ladle into 8 wide-mouth quart mason jars, leaving 1-inch headspace.
+2. Ladle into 8 wide-mouth pint (16 oz) mason jars, leaving 1-inch headspace.
 3. Seal and refrigerate for up to 5 days, or freeze for up to 3 months.
-4. To reheat: warm on the stovetop over medium heat, stirring occasionally, or microwave in a microwave-safe container.
+4. To thaw: move a jar from the freezer to the fridge the night before. For same-day thawing, submerge the sealed jar in cold water, changing the water every 30 minutes (1–2 hours). You can also reheat directly from frozen on the stovetop over low heat, stirring as it loosens.
+5. To reheat: warm on the stovetop over medium heat, stirring occasionally, or microwave in a microwave-safe container.
 
 ## Notes
 
 - Adjust curry paste quantity to desired heat level — 2 tbsp for mild, 3+ for spicy.
 - Coconut milk naturally separates when cold; stir well after reheating.
-- Add chickpeas or tofu for extra protein.
+- Press tofu well before cubing to improve texture; extra-firm tofu holds up best in the crockpot.
 - For a thicker curry, remove the lid for the last 30–60 minutes of cooking.
