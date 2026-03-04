@@ -4,5 +4,5 @@ Fresh orange bell pepper, sweet and crisp. Good for stir-fries, curries, salads,
 
 ## Price
 
-- Size: sold by pound
-- Price: $4.00 / lb
+- Size: sold by count
+- Price: $4.00 / 3 peppers

@@ -4,5 +4,5 @@ Hy-Vee store brand Colby Jack cheese brick. Mild and creamy blend of Colby and M
 
 ## Price
 
-- Size: 2 lb brick
+- Size: 8 oz brick
 - Price: $10.00 (often on sale for $2.00 with card)
