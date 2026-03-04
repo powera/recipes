@@ -16,6 +16,7 @@ A rich, warming coconut red curry made in a crockpot. Makes approximately 8 pint
 - 1 can (15 oz) chickpeas, drained and rinsed
 - 1 can (8 oz) water chestnuts, drained and sliced
 - 1 can (8 oz) bamboo shoots, drained
+- 2 cups green beans, trimmed (fresh or frozen)
 - 1 tbsp soy sauce or tamari
 - 1 tbsp fish sauce (optional)
 - 1 tbsp brown sugar or coconut sugar
@@ -27,7 +28,7 @@ A rich, warming coconut red curry made in a crockpot. Makes approximately 8 pint
 
 1. Heat olive oil in a skillet over medium heat. Sauté onion until softened, about 5 minutes. Add garlic and ginger and cook 1 minute more. Add curry paste and stir to coat.
 2. Transfer the aromatics to the crockpot. Pour in coconut milk and broth and stir to combine.
-3. Add sweet potatoes, tofu, chickpeas, water chestnuts, and bamboo shoots.
+3. Add sweet potatoes, tofu, chickpeas, water chestnuts, bamboo shoots, and green beans.
 4. Season with soy sauce, fish sauce (if using), and brown sugar.
 5. Cook on **Low for 6–8 hours** or **High for 3–4 hours**, until sweet potatoes are tender.
 6. Stir in lime juice and adjust seasoning before serving.
