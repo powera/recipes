@@ -39,7 +39,8 @@ A rich, warming coconut red curry made in a crockpot. Makes approximately 8 pint
 1. Let curry cool to room temperature (or use a quick ice bath).
 2. Ladle into 8 wide-mouth pint (16 oz) mason jars, leaving 1-inch headspace.
 3. Seal and refrigerate for up to 5 days, or freeze for up to 3 months.
-4. To reheat: warm on the stovetop over medium heat, stirring occasionally, or microwave in a microwave-safe container.
+4. To thaw: move a jar from the freezer to the fridge the night before. For same-day thawing, submerge the sealed jar in cold water, changing the water every 30 minutes (1–2 hours). You can also reheat directly from frozen on the stovetop over low heat, stirring as it loosens.
+5. To reheat: warm on the stovetop over medium heat, stirring occasionally, or microwave in a microwave-safe container.
 
 ## Notes
 
