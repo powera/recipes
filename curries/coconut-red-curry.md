@@ -4,7 +4,7 @@ A rich, warming coconut red curry made in a crockpot. Makes 8 mason jars.
 
 ## Ingredients
 
-- 2 tbsp coconut oil
+- 2 tbsp high-heat olive oil
 - 1 large onion, diced
 - 4 cloves garlic, minced
 - 2-inch piece fresh ginger, peeled and grated (or thinly sliced)
@@ -24,7 +24,7 @@ A rich, warming coconut red curry made in a crockpot. Makes 8 mason jars.
 
 ## Instructions
 
-1. Heat coconut oil in a skillet over medium heat. Sauté onion until softened, about 5 minutes. Add garlic and ginger and cook 1 minute more. Add curry paste and stir to coat.
+1. Heat olive oil in a skillet over medium heat. Sauté onion until softened, about 5 minutes. Add garlic and ginger and cook 1 minute more. Add curry paste and stir to coat.
 2. Transfer the aromatics to the crockpot. Pour in coconut milk and broth and stir to combine.
 3. Add sweet potatoes, tofu, water chestnuts, and bamboo shoots.
 4. Season with soy sauce, fish sauce (if using), and brown sugar.
