@@ -5,4 +5,4 @@ Hy-Vee store brand canned garbanzo beans (chickpeas). High in protein and fiber.
 ## Price
 
 - Size: 15 oz can
-- Price: $0.99
+- Price: $0.86

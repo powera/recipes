@@ -5,4 +5,4 @@ Hy-Vee store brand canned whole kernel golden corn, no salt added. Sweet corn ke
 ## Price
 
 - Size: 15.25 oz can
-- Price: $2.00
+- Price: $0.99
